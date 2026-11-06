@@ -1,0 +1,8 @@
+# ferramentas locais (skills do Claude Code)
+.agents/
+.claude/
+skills-lock.json
+
+# sistema
+Thumbs.db
+.DS_Store
