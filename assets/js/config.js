@@ -10,8 +10,8 @@ window.CONFIG = {
   whatsapp: "5598984747221", // (98) 98474-7221
 
   // {{LINK_TIKTOK}} / {{LINK_INSTAGRAM}} — vazio esconde o ícone no rodapé.
-  tiktok: "",
-  instagram: "",
+  tiktok: "https://www.tiktok.com/@celinamota2026",
+  instagram: "https://www.instagram.com/celina.mota_/",
 
   // {{LEAD_WEBHOOK_URL}} — opcional (ex: Apps Script do Google Sheets).
   // Vazio = pula. Recebe POST JSON com nome, onde_vende, travamento e UTMs.
