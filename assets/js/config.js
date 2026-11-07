@@ -7,7 +7,7 @@
 window.CONFIG = {
   // {{WHATSAPP_NUMERO_COM_DDI}} — só números, ex: "5598999999999".
   // Vazio = o WhatsApp abre pedindo para escolher o contato (use só em teste).
-  whatsapp: "",
+  whatsapp: "5598991564356", // (98) 9 9156-4356
 
   // {{LINK_TIKTOK}} / {{LINK_INSTAGRAM}} — vazio esconde o ícone no rodapé.
   tiktok: "",
